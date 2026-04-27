@@ -1,0 +1,18 @@
+{
+  "about": "Jestem studentem IT zainteresowanym tworzeniem stron internetowych.",
+  "email": "ivan71732@studentmail.com",
+  "city": "Warszawa",
+
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Git"
+  ],
+
+  "projects": [
+    "CV HTML",
+    "Strona wizytówka",
+    "Formularz kontaktowy"
+  ]
+}
